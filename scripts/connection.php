@@ -1,10 +1,10 @@
 <?php
 
 //establish the connection variables.
-$servername = 'localhost';
-$username = 'root';
-$dbname = 'cars_database';
-$password = '';
+$servername = '****';
+$username = '****';
+$dbname = '****';
+$password = '****';
 
 //create a connection
 $conn = mysqli_connect($servername,$username,$password,$dbname);
